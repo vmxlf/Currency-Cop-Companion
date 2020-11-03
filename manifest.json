@@ -1,12 +1,12 @@
 {
-  "name": "Currency Cop Companion",
+  "name": "Currency Cop Companion kor",
   "version": "1.0.1",
   "description": "A simple POESESSID retriever.",
   "background": {
     "scripts": ["background.js"],
     "persistent": false
   },
-  "permissions": ["declarativeContent", "cookies", "*://*.pathofexile.com/"],
+  "permissions": ["declarativeContent", "cookies", "*://poe.game.daum.net/"],
   "page_action": {
     "default_popup": "popup.html",
     "default_icon": {
