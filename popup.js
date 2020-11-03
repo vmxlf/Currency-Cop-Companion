@@ -2,7 +2,7 @@ const text = document.querySelector("input[type=text]");
 const button = document.querySelector("input[type=button]");
 
 document.addEventListener('DOMContentLoaded', () => {
-  chrome.cookies.get({url: 'https://www.pathofexile.com/', name: 'POESESSID'}, (cookie) => {
+  chrome.cookies.get({url: 'https://poe.game.daum.net/', name: 'POESESSID'}, (cookie) => {
     if (cookie && cookie.value.length > 0) {
       text.value = cookie.value;
       text.className = 'success';
