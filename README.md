@@ -1,3 +1,12 @@
+support kor poe.
+
+
+
+
+
+Original here(Alaricus/Currency-Cop-Companion). 
+
+
 # Currency-Cop-Companion
 Chrome extension for easy retrieval of the Path of Exile POESESSID value for use with Currency Cop.
 
