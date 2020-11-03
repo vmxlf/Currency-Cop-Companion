@@ -1,9 +1,6 @@
-support kor poe.
+support kor poe website. 
 
 
-The icon is from Currency Cop and belongs to its creator:
-
-https://github.com/currency-cop/currency-cop
 
 -------------------------------------------------------------
 
