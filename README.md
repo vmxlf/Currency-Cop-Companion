@@ -4,7 +4,7 @@ support kor poe.
 
 
 
-Original here(Alaricus/Currency-Cop-Companion). 
+Original (Alaricus/Currency-Cop-Companion). 
 
 
 # Currency-Cop-Companion
